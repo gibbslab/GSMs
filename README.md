@@ -35,3 +35,4 @@ Jimenez-Martinez et al. 2017: https://pubmed.ncbi.nlm.nih.gov/28243200/
 Martin-Jimenez model <b>was not created by our group</b>, it was created by our partners at Pontificia Universidad Javeriana (PUJ) in Bogotá, Colombia. We keep this model here because it's been used as template for the creation of further versions (Osorio's and upcoming Mendoza's multiomics version) which we have developed in partnership with PUJ.
 
 <br>
+Mendoza et al. 2022: (submitted).
